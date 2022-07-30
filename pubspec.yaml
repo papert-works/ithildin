@@ -44,6 +44,7 @@ dependencies:
   logger: ^1.1.0
   sentry_flutter: ^6.9.0
   firebase_auth: ^3.6.1
+  google_sign_in: ^5.4.0
 
 dev_dependencies:
   flutter_test:
