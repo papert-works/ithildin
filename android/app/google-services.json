@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133998405674",
+    "project_id": "ithildin-b184e",
+    "storage_bucket": "ithildin-b184e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133998405674:android:3340289e5cbb3ae138bb53",
+        "android_client_info": {
+          "package_name": "com.example.ithildin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133998405674-n30clhti6g694vm0j1gipjbcrf4fhegi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgtSqHR5eKnPfNysoKsH90q_oWtCcmfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133998405674-n30clhti6g694vm0j1gipjbcrf4fhegi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
