@@ -23,7 +23,7 @@ void main() async {
   await Hive.initFlutter();
 
   // Ideal time to initialize
-  await FirebaseAuth.instance.useAuthEmulator('localhost', 9099);
+  // await FirebaseAuth.instance.useAuthEmulator('localhost', 9099);
 //...
 
   await SentryFlutter.init((options) {
